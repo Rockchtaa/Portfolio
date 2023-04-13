@@ -345,6 +345,7 @@ img {
   width: 220px;
   border-radius: 1.5rem;
   justify-self: center;
+  height : 450px;
 }
 .about_data {
   text-align: center;
