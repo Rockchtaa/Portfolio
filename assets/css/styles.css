@@ -398,6 +398,11 @@ img {
   font-weight: var(--font-medium);
   line-height: 28px;
 }
+.skills_name:hover{
+  transform: scale(1.1);
+  color: var(--first-color-alt);
+}
+
 
 /*=============== SERVICES ===============*/
 
